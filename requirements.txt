@@ -1,0 +1,7 @@
+# torch
+numpy
+librosa
+pandas
+feather-format
+matplotlib
+tqdm
